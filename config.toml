@@ -1,6 +1,6 @@
 [telegram]
 token = "1313654865:AAEPfEsuDxb4iC3rSK1q7czP6NdKyix09LU"
-workers = python3 Main.py
+workers = 1
 admins = [677799710]
 admins_only = false
 maintenance_mode = false
