@@ -1,5 +1,5 @@
 [telegram]
-token = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+token = "1387815566:AAGzTW_yG96fbC551AR5laXt872jyGAV0XU"
 workers = 1
 admins = [1234567]
 admins_only = false
